@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "945209027247",
+    "project_id": "infit-21ade",
+    "storage_bucket": "infit-21ade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945209027247:android:1580795621199068c7025a",
+        "android_client_info": {
+          "package_name": "com.example.infit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945209027247-g15bmqi42b982219tivbou0b1k9p2nhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.infit",
+            "certificate_hash": "d0fe29271def1b75e38be5777fc037d129169762"
+          }
+        },
+        {
+          "client_id": "945209027247-5c2s7jk5h5qbnjh4vv6ourk9fkh00mi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjsdR4Lk5Gmms1cPC9Yh32GfuCjX_yQZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945209027247-5c2s7jk5h5qbnjh4vv6ourk9fkh00mi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
